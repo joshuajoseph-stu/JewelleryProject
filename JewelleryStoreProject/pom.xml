@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pixeltrice</groupId>
-	<artifactId>spring-boot-QR-code-generator-app</artifactId>
+	<artifactId>spring-boot-jewellery-store-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-QR-code-generator-app</name>
+	<name>spring-boot-jewellery-store-app</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
